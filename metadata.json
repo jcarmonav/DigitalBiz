@@ -1,0 +1,6 @@
+{
+  "name": "DigitalBiz - IT & Cloud Solutions",
+  "description": "Soluciones de infraestructura TI, soporte técnico integral, servicios cloud y seguridad de la información diseñadas para hacer crecer tu negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
